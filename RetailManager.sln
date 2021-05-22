@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDataManager", "RMDataMana
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RMData", "RMData\RMData.sqlproj", "{5A3D1E2D-D95B-42DB-87A4-273D672EB72F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDesktopUI", "RMDesktopUI\RMDesktopUI.csproj", "{BA6B4006-6F72-4E38-B751-79DDE0F7D3C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{5A3D1E2D-D95B-42DB-87A4-273D672EB72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3D1E2D-D95B-42DB-87A4-273D672EB72F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5A3D1E2D-D95B-42DB-87A4-273D672EB72F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA6B4006-6F72-4E38-B751-79DDE0F7D3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6B4006-6F72-4E38-B751-79DDE0F7D3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6B4006-6F72-4E38-B751-79DDE0F7D3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6B4006-6F72-4E38-B751-79DDE0F7D3C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
